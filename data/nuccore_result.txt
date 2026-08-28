@@ -1,0 +1,659 @@
+
+1. Bacteroides fragilis YCH46, complete sequence
+5,277,274 bp circular DNA 
+NC_006347.1 GI:53711291
+
+2. Campylobacter upsaliensis RM3195 cont169, whole genome shotgun sequence
+291,266 bp linear DNA 
+NZ_AAFJ01000001.1 GI:57241879
+
+3. Campylobacter upsaliensis RM3195 cont168, whole genome shotgun sequence
+190,041 bp linear DNA 
+NZ_AAFJ01000002.1 GI:57242183
+
+4. Campylobacter upsaliensis RM3195 cont172, whole genome shotgun sequence
+179,952 bp linear DNA 
+NZ_AAFJ01000003.1 GI:57242391
+
+5. Campylobacter upsaliensis RM3195 cont170, whole genome shotgun sequence
+154,728 bp linear DNA 
+NZ_AAFJ01000004.1 GI:57242578
+
+6. Campylobacter upsaliensis RM3195 cont166, whole genome shotgun sequence
+153,933 bp linear DNA 
+NZ_AAFJ01000005.1 GI:57505199
+
+7. Campylobacter upsaliensis RM3195 cont157, whole genome shotgun sequence
+136,031 bp linear DNA 
+NZ_AAFJ01000006.1 GI:57505371
+
+8. Campylobacter upsaliensis RM3195 cont174, whole genome shotgun sequence
+123,154 bp linear DNA 
+NZ_AAFJ01000007.1 GI:57505510
+
+9. Campylobacter upsaliensis RM3195 cont167, whole genome shotgun sequence
+115,076 bp linear DNA 
+NZ_AAFJ01000008.1 GI:57505649
+
+10. Campylobacter upsaliensis RM3195 cont158, whole genome shotgun sequence
+102,965 bp linear DNA 
+NZ_AAFJ01000009.1 GI:57505784
+
+11. Campylobacter upsaliensis RM3195 cont162, whole genome shotgun sequence
+68,753 bp linear DNA 
+NZ_AAFJ01000011.1 GI:57506014
+
+12. Campylobacter upsaliensis RM3195 cont163, whole genome shotgun sequence
+39,918 bp linear DNA 
+NZ_AAFJ01000012.1 GI:57506084
+
+13. Campylobacter upsaliensis RM3195 cont171, whole genome shotgun sequence
+26,020 bp linear DNA 
+NZ_AAFJ01000014.1 GI:57506173
+
+14. Campylobacter upsaliensis RM3195 cont165, whole genome shotgun sequence
+17,938 bp linear DNA 
+NZ_AAFJ01000015.1 GI:57506206
+
+15. Campylobacter upsaliensis RM3195 cont159, whole genome shotgun sequence
+14,674 bp linear DNA 
+NZ_AAFJ01000016.1 GI:57506232
+
+16. Campylobacter upsaliensis RM3195 map unlocalized plasmid pCU110 cont176, whole genome shotgun sequence
+14,328 bp linear DNA 
+NZ_AAFJ01000017.1 GI:57506247
+
+17. Campylobacter upsaliensis RM3195 map unlocalized plasmid pCU3 cont173, whole genome shotgun sequence
+3,196 bp linear DNA 
+NZ_AAFJ01000019.1 GI:57506277
+
+18. Campylobacter upsaliensis RM3195 cont160, whole genome shotgun sequence
+2,991 bp linear DNA 
+NZ_AAFJ01000020.1 GI:57506283
+
+19. Bifidobacterium adolescentis ATCC 15703, complete sequence
+2,089,645 bp circular DNA 
+NC_008618.1 GI:119025018
+
+20. Bifidobacterium longum DJO10A, complete sequence
+2,375,792 bp circular DNA 
+NC_010816.1 GI:189438863
+
+21. Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222 = DSM 20088, complete sequence
+2,832,748 bp circular DNA 
+NC_011593.1 GI:213690928
+
+22. Escherichia coli O127:H6 str. E2348/69, complete sequence
+4,965,553 bp circular DNA 
+NC_011601.1 GI:215485161
+
+23. Bifidobacterium longum subsp. longum BBMN68, complete sequence
+2,265,943 bp circular DNA 
+NC_014656.1 GI:312132275
+
+24. Bacteroides fragilis 638R, complete sequence
+5,373,121 bp linear DNA 
+NC_016776.1 GI:375356399
+
+25. Bifidobacterium breve ACS-071-V-Sch8b, complete sequence
+2,327,492 bp circular DNA 
+NC_017218.1 GI:384196195
+
+26. Bifidobacterium bifidum BGN4, complete sequence
+2,223,664 bp circular DNA 
+NC_017999.1 GI:390935917
+
+27. Bifidobacterium adolescentis strain BB23 chromosome, complete genome
+2,173,720 bp circular DNA 
+NZ_CP010437.1 GI:749168886
+
+28. Bifidobacterium longum subsp. longum GT15 chromosome, complete genome
+2,337,521 bp circular DNA 
+NZ_CP006741.1 GI:749295414
+
+29. Bifidobacterium longum strain BXY01 chromosome, complete genome
+2,480,603 bp circular DNA 
+NZ_CP008885.1 GI:749295429
+
+30. Escherichia albertii KF1 chromosome, complete genome
+4,701,875 bp circular DNA 
+NZ_CP007025.1 GI:749299171
+
+31. Bifidobacterium adolescentis strain 22L chromosome, complete genome
+2,203,222 bp circular DNA 
+NZ_CP007443.1 GI:749308093
+
+32. Bifidobacterium longum strain 105-A chromosome, complete genome
+2,290,145 bp circular DNA 
+NZ_AP014658.1 GI:751613096
+
+33. Bacteroides fragilis strain BOB25 chromosome, complete genome
+5,282,232 bp circular DNA 
+NZ_CP011073.1 GI:798883202
+
+34. Escherichia coli VR50 chromosome, complete genome
+5,000,386 bp circular DNA 
+NZ_CP011134.1 GI:803470228
+
+35. Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain JCM 1200 chromosome, complete genome
+2,313,752 bp circular DNA 
+NZ_AP012330.1 GI:836594251
+
+36. Bifidobacterium angulatum DSM 20098 = JCM 7096 chromosome, complete genome
+2,021,974 bp circular DNA 
+NZ_AP012322.1 GI:836594784
+
+37. Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043 strain JCM 1194 chromosome, complete genome
+2,079,525 bp circular DNA 
+NZ_AP012325.1 GI:836595218
+
+38. Bifidobacterium bifidum ATCC 29521 = JCM 1255 = DSM 20456 strain JCM 1255 chromosome, complete genome
+2,211,039 bp circular DNA 
+NZ_AP012323.1 GI:844781997
+
+39. Bifidobacterium catenulatum subsp. kashiwanohense JCM 15439 = DSM 21854 strain JCM 15439 chromosome, complete genome
+2,337,234 bp circular DNA 
+NZ_AP012327.1 GI:860226651
+
+40. Bifidobacterium bifidum strain BF3 chromosome, complete genome
+2,210,370 bp circular DNA 
+NZ_CP010412.1 GI:927811658
+
+41. Bacteroides fragilis strain BE1 chromosome scaffold1, complete sequence
+5,188,967 bp circular DNA 
+NZ_LN877293.1 GI:928804415
+
+42. Bacteroides thetaiotaomicron strain 7330 chromosome, complete genome
+6,487,685 bp circular DNA 
+NZ_CP012937.1 GI:1011879192
+
+43. Bacteroides fragilis strain S14 chromosome, complete genome
+4,902,215 bp circular DNA 
+NZ_CP012706.1 GI:1043083059
+
+44. Bacteroides ovatus V975 chromosome I, complete sequence
+6,475,296 bp circular DNA 
+NZ_LT622246.1 GI:1079877943
+
+45. Escherichia coli strain FORC_041 chromosome, complete genome
+4,867,152 bp circular DNA 
+NZ_CP016628.1 GI:1110749529
+
+46. Escherichia coli strain C4 chromosome, complete genome
+4,990,476 bp circular DNA 
+NZ_CP010121.1 GI:1120948699
+
+47. Escherichia coli strain S50 chromosome, complete genome
+4,797,106 bp circular DNA 
+Record removed. This record was removed by RefSeq staff. Please contact info@ncbi.nlm.nih.gov for further details.
+NZ_CP010238.1 GI:1121253507
+
+48. Escherichia coli strain AR_0069 chromosome, complete genome
+4,658,583 bp circular DNA 
+NZ_CP020055.1 GI:1167593594
+
+49. Escherichia coli strain 1190 chromosome, complete genome
+4,900,891 bp circular DNA 
+NZ_CP023386.1 GI:1243964606
+
+50. Bacteroides fragilis strain Q1F2 chromosome, complete genome
+5,196,111 bp circular DNA 
+NZ_CP018937.1 GI:1325701838
+
+51. Escherichia coli strain 14EC033 chromosome, complete genome
+4,639,454 bp circular DNA 
+NZ_CP024147.1 GI:1326144005
+
+52. Escherichia coli strain STEC299 chromosome, complete genome
+4,907,118 bp circular DNA 
+NZ_CP022279.1 GI:1326192457
+
+53. Escherichia coli strain AR_0374 chromosome, complete genome
+4,877,957 bp circular DNA 
+NZ_CP027126.1 GI:1360818631
+
+54. Bifidobacterium breve strain NRBB09 chromosome, complete genome
+2,265,557 bp circular DNA 
+NZ_CP021387.1 GI:1371565423
+
+55. Bifidobacterium adolescentis strain 1-11 chromosome, complete genome
+2,192,428 bp circular DNA 
+NZ_CP028341.1 GI:1378772367
+
+56. Escherichia coli strain NCTC11023 chromosome 1, complete sequence
+4,705,041 bp circular DNA 
+NZ_LS483297.1 GI:1409075508
+
+57. Bifidobacterium longum subsp. longum strain BORI chromosome, complete genome
+2,311,020 bp circular DNA 
+NZ_CP031133.1 GI:1435815308
+
+58. Bifidobacterium adolescentis strain 6 chromosome, complete genome
+2,201,808 bp circular DNA 
+NZ_CP023005.1 GI:1468414822
+
+59. Escherichia coli Nissle 1917 chromosome, complete genome
+5,055,316 bp circular DNA 
+NZ_CP022686.1 GI:1477081562
+
+60. Escherichia coli ATCC 8739 chromosome, complete genome
+4,746,918 bp circular DNA 
+NZ_CP022959.1 GI:1482758400
+
+61. Bifidobacterium adolescentis strain P2P3 chromosome, complete genome
+2,202,982 bp circular DNA 
+NZ_CP024959.1 GI:1528551725
+
+62. Bifidobacterium pseudocatenulatum strain 12 chromosome, complete genome
+2,192,395 bp circular DNA 
+NZ_CP025199.1 GI:1543111869
+
+63. Enterococcus faecium strain RBWH1 chromosome, complete genome
+2,876,110 bp circular DNA 
+NZ_CP033206.1 GI:1543288613
+
+64. Klebsiella oxytoca strain NCTC13727 chromosome 1, complete sequence
+5,857,964 bp circular DNA 
+NZ_LR134333.1 GI:1545296592
+
+65. Escherichia coli strain NCTC9087 chromosome 1, complete sequence
+4,594,692 bp circular DNA 
+NZ_LR134231.1 GI:1545327866
+
+66. Escherichia coli strain NCTC9008 chromosome 1, complete sequence
+4,757,340 bp circular DNA 
+NZ_LR134236.1 GI:1545328717
+
+67. Escherichia coli strain NCTC10973 chromosome 1, complete sequence
+4,647,667 bp circular DNA 
+NZ_LR134216.1 GI:1545342441
+
+68. Campylobacter jejuni strain NCTC13268 chromosome 1, complete sequence
+1,801,392 bp circular DNA 
+NZ_LR134497.1 GI:1545528836
+
+69. Enterococcus faecium isolate E8423 chromosome 1
+2,697,636 bp linear DNA 
+NZ_LR135475.1 GI:1553429578
+
+70. Enterococcus faecium isolate E7171 chromosome 1
+2,804,950 bp linear DNA 
+NZ_LR135203.1 GI:1553429622
+
+71. Escherichia coli isolate Escherichia coli str. TO60 chromosome 1, complete sequence
+5,031,440 bp circular DNA 
+NZ_LS992168.1 GI:1601774141
+
+72. Escherichia coli isolate f9610206-5e81-11e8-bf7f-3c4a9275d6c8 chromosome VREC0864
+5,114,416 bp linear DNA 
+NZ_LR536431.1 GI:1603960877
+
+73. Escherichia coli strain 382634_2f chromosome, complete genome
+4,702,395 bp circular DNA 
+NZ_CP039403.1 GI:1624642401
+
+74. Enterococcus avium strain 352 chromosome, complete genome
+4,794,392 bp circular DNA 
+NZ_CP034169.1 GI:1654760181
+
+75. Bacteroides fragilis strain DCMOUH0017B chromosome, complete genome
+5,474,541 bp circular DNA 
+NZ_CP036539.1 GI:1655059588
+
+76. Bacteroides fragilis strain DCMOUH0042B chromosome, complete genome
+5,141,257 bp circular DNA 
+NZ_CP036550.1 GI:1655066557
+
+77. Bifidobacterium longum strain ZJ1 chromosome, complete genome
+2,414,672 bp circular DNA 
+NZ_CP040235.1 GI:1655186934
+
+78. Bacteroides fragilis strain CCUG 4856 chromosome, complete genome
+5,205,133 bp circular DNA 
+NZ_CP036555.1 GI:1668080495
+
+79. Enterococcus faecium strain HB-1 chromosome, complete genome
+2,618,436 bp circular DNA 
+NZ_CP040878.1 GI:1690640564
+
+80. Bacteroides uniformis strain NBRC 113350 chromosome, complete genome
+4,734,883 bp circular DNA 
+NZ_AP019724.1 GI:1701430354
+
+81. Escherichia coli strain U1 chromosome, complete genome
+5,320,024 bp circular DNA 
+NZ_CP041359.1 GI:1705453699
+
+82. Bacteroides intestinalis strain APC919/174 chromosome, complete genome
+5,785,761 bp circular DNA 
+NZ_CP041379.1 GI:1713035205
+
+83. Enterococcus avium strain FDAARGOS_184 chromosome, complete genome
+3,723,378 bp circular DNA 
+NZ_CP024590.1 GI:1732843904
+
+84. Bacteroides fragilis strain GUT04 chromosome, complete genome
+5,330,584 bp circular DNA 
+NZ_CP043610.1 GI:1740782487
+
+85. Bifidobacterium longum strain LTBL16 chromosome, complete genome
+2,430,682 bp circular DNA 
+NZ_CP034089.1 GI:1780307442
+
+86. Enterococcus gallinarum strain FDAARGOS_728 chromosome, complete genome
+3,274,932 bp circular DNA 
+NZ_CP046307.1 GI:1782398584
+
+87. Bifidobacterium adolescentis strain ZJ2 chromosome, complete genome
+2,401,766 bp circular DNA 
+NZ_CP047129.1 GI:1797378023
+
+88. Escherichia coli strain LD22-1 chromosome, complete genome
+4,775,730 bp circular DNA 
+NZ_CP047876.1 GI:1800114851
+
+89. Bifidobacterium longum strain CACC 517 chromosome, complete genome
+2,281,664 bp circular DNA 
+NZ_CP048001.1 GI:1802733642
+
+90. Escherichia coli strain 142 chromosome, complete genome
+5,073,188 bp circular DNA 
+NZ_CP048337.1 GI:1811152029
+
+91. Escherichia coli E110019 chromosome, complete genome
+5,249,232 bp circular DNA 
+NZ_CP035751.1 GI:1822669750
+
+92. Escherichia coli strain 8-3-Ti3 chromosome, complete genome
+4,899,869 bp circular DNA 
+Record removed. This record was removed by RefSeq staff. Please contact info@ncbi.nlm.nih.gov for further details.
+NZ_CP050865.1 GI:1829679710
+
+93. Escherichia coli strain 2018-02-2CC chromosome, complete genome
+4,574,715 bp circular DNA 
+NZ_AP021896.1 GI:1847235233
+
+94. Escherichia coli strain EcPF16 chromosome, complete genome
+4,721,932 bp circular DNA 
+NZ_CP054224.1 GI:1862000002
+
+95. Enterococcus hirae strain 13144 chromosome, complete genome
+2,735,684 bp circular DNA 
+NZ_CP055231.1 GI:1867030981
+
+96. Enterococcus hirae strain 13152 chromosome, complete genome
+2,835,470 bp circular DNA 
+NZ_CP055230.1 GI:1867101485
+
+97. Enterococcus hirae strain 13344 chromosome, complete genome
+2,711,996 bp circular DNA 
+NZ_CP055229.1 GI:1867104464
+
+98. Candidatus Campylobacter infans strain 19S00001 chromosome, complete genome
+1,754,511 bp circular DNA 
+NZ_CP049075.1 GI:1871833161
+
+99. Escherichia coli isolate SC476 chromosome 1
+4,747,946 bp linear DNA 
+NZ_LR778151.1 GI:1876451537
+
+100. Escherichia fergusonii strain RHB19-C05 chromosome, complete genome
+4,584,354 bp circular DNA 
+NZ_CP057657.1 GI:1885822567
+
+101. Escherichia coli strain WP8-S18-ESBL-07 chromosome, complete genome
+4,907,327 bp circular DNA 
+NZ_AP022261.1 GI:1890041686
+
+102. Escherichia coli strain IDR1900005638-01-02 chromosome, complete genome
+4,702,170 bp circular DNA 
+NZ_CP054282.1 GI:1890072405
+
+103. Escherichia coli strain N18-04097 chromosome, complete genome
+4,774,769 bp circular DNA 
+NZ_CP047277.1 GI:1890787830
+
+104. Escherichia coli strain G6/7 chromosome, complete genome
+5,326,222 bp circular DNA 
+NZ_CP060061.1 GI:1897112519
+
+105. Bacteroides sp. PHL 2737 chromosome, complete genome
+5,522,430 bp circular DNA 
+NZ_CP040630.1 GI:1897351826
+
+106. Bifidobacterium longum strain BIM B-813D chromosome, complete genome
+2,305,513 bp circular DNA 
+NZ_CP060493.1 GI:1897678852
+
+107. Escherichia coli O15:H12 strain 2273-PO3 chromosome, complete genome
+5,029,424 bp circular DNA 
+NZ_CP061749.1 GI:1910596739
+
+108. Escherichia coli isolate 2016-17-292 chromosome 1, complete sequence
+4,841,444 bp circular DNA 
+NZ_LR882493.1 GI:1912169221
+
+109. Klebsiella variicola strain BS359-2-1 chromosome, complete genome
+5,510,850 bp circular DNA 
+NZ_CP063912.1 GI:1930542828
+
+110. Escherichia coli O167:H26 strain Res13-Lact-PER13-34 chromosome, complete genome
+4,861,285 bp circular DNA 
+NZ_CP062824.1 GI:1934786521
+
+111. Escherichia coli strain Res13-Lact-PEA14-20 chromosome, complete genome
+4,987,664 bp circular DNA 
+NZ_CP062871.1 GI:1934787080
+
+112. Escherichia coli strain Eco-15 chromosome, complete genome
+4,771,912 bp circular DNA 
+NZ_CP047710.1 GI:1942336023
+
+113. Enterococcus hirae strain FDAARGOS_1124 chromosome, complete genome
+2,779,314 bp circular DNA 
+NZ_CP068122.1 GI:1959203970
+
+114. Escherichia coli strain RIVM_C029020 chromosome, complete genome
+5,251,089 bp circular DNA 
+NZ_CP068812.1 GI:1970013265
+
+115. Bacteroides xylanisolvens strain funn3 chromosome, complete genome
+6,570,539 bp circular DNA 
+NZ_CP045612.1 GI:1983712251
+
+116. Bacteroides fragilis strain DK1985 chromosome, complete genome
+5,380,874 bp circular DNA 
+NZ_CP044428.1 GI:1983712440
+
+117. Escherichia coli strain DE17 chromosome, complete genome
+4,944,436 bp circular DNA 
+NZ_CP045206.1 GI:1983715616
+
+118. Escherichia coli strain EA2 chromosome, complete genome
+4,761,946 bp circular DNA 
+NZ_CP069710.1 GI:1986775245
+
+119. Bacteroides fragilis strain FDAARGOS_1225 chromosome, complete genome
+5,150,703 bp circular DNA 
+NZ_CP069563.1 GI:1992822979
+
+120. Escherichia coli strain FDAARGOS_1289 chromosome, complete genome
+5,176,465 bp circular DNA 
+NZ_CP069882.1 GI:1992921140
+
+121. Escherichia coli strain 30COLEC chromosome, complete genome
+4,668,053 bp circular DNA 
+NZ_CP070930.1 GI:1997109368
+
+122. Bifidobacterium longum subsp. suillum strain JCM 19995 chromosome, complete genome
+2,340,054 bp circular DNA 
+NZ_CP070996.1 GI:1997469496
+
+123. Bifidobacterium longum subsp. longum strain JCM 7053 chromosome, complete genome
+2,493,122 bp circular DNA 
+NZ_CP071683.1 GI:2007956480
+
+124. Bifidobacterium adolescentis strain PRL2019 chromosome, complete genome
+2,212,477 bp circular DNA 
+NZ_CP053072.1 GI:2023939906
+
+125. Bacteroides xylanisolvens strain CL11T00C41 chromosome, complete genome
+6,670,862 bp circular DNA 
+NZ_CP072212.1 GI:2035175580
+
+126. Bacteroides eggerthii strain CL11T00C20 chromosome, complete genome
+5,008,416 bp circular DNA 
+NZ_CP072227.1 GI:2035297995
+
+127. Bacteroides uniformis CL03T12C37 chromosome, complete genome
+4,874,733 bp circular DNA 
+NZ_CP072255.1 GI:2035300249
+
+128. Bacteroides thetaiotaomicron strain CL06T03C18 chromosome, complete genome
+5,830,764 bp circular DNA 
+NZ_CP072242.1 GI:2035305626
+
+129. Bacteroides uniformis strain CL06T06C18 chromosome, complete genome
+4,905,795 bp circular DNA 
+NZ_CP072236.1 GI:2035322026
+
+130. Bacteroides thetaiotaomicron strain CL11T00C24 chromosome, complete genome
+6,712,089 bp circular DNA 
+NZ_CP072224.1 GI:2035323790
+
+131. Bacteroides caccae CL03T12C61 chromosome, complete genome
+5,485,670 bp circular DNA 
+NZ_CP072258.1 GI:2035324878
+
+132. Escherichia coli strain CT29 chromosome, complete genome
+4,631,653 bp circular DNA 
+NZ_CP032073.1 GI:2036523464
+
+133. Bacteroides xylanisolvens strain CL11T00C03 chromosome, complete genome
+6,425,332 bp circular DNA 
+NZ_CP072216.1 GI:2037292514
+
+134. Escherichia coli strain UPEC-774U/190308 chromosome, complete genome
+4,993,321 bp circular DNA 
+NZ_CP049852.1 GI:2076677747
+
+135. Escherichia coli strain CFSAN061761 chromosome, complete genome
+5,016,408 bp circular DNA 
+NZ_CP042903.1 GI:2082517008
+
+136. Enterobacter cancerogenus strain HAEC1 chromosome, complete genome
+4,691,581 bp circular DNA 
+NZ_CP082280.1 GI:2090244947
+
+137. Bacteroides thetaiotaomicron strain CL15T12C11 chromosome, complete genome
+6,844,923 bp circular DNA 
+NZ_CP075193.1 GI:2091646528
+
+138. Bacteroides stercoris strain BFG-121 chromosome, complete genome
+3,883,826 bp circular DNA 
+NZ_CP081913.1 GI:2103589474
+
+139. Bacteroides thetaiotaomicron strain BFG-55 chromosome, complete genome
+6,337,561 bp circular DNA 
+NZ_CP081898.1 GI:2103589890
+
+140. Bacteroides salyersiae strain BFG-288 chromosome, complete genome
+5,293,958 bp circular DNA 
+NZ_CP081899.1 GI:2103593334
+
+141. Bacteroides salyersiae strain BFG-256 chromosome, complete genome
+5,374,479 bp circular DNA 
+NZ_CP081902.1 GI:2103597636
+
+142. Bacteroides fragilis strain BFG-1 chromosome, complete genome
+5,187,754 bp circular DNA 
+NZ_CP081922.1 GI:2103682370
+
+143. Bacteroides caccae strain BFG-100 chromosome, complete genome
+5,022,820 bp circular DNA 
+NZ_CP081920.1 GI:2103744293
+
+144. Bacteroides ovatus strain BFG-107 chromosome, complete genome
+6,809,437 bp circular DNA 
+NZ_CP081917.1 GI:2103786387
+
+145. Bifidobacterium pseudocatenulatum strain YIT11953 chromosome, complete genome
+2,241,223 bp circular DNA 
+NZ_CP079233.1 GI:2121656473
+
+146. Escherichia coli strain VCSW8 chromosome, complete genome
+4,672,036 bp circular DNA 
+NZ_CP085488.1 GI:2126478045
+
+147. Bifidobacterium bifidum strain YIT 10347 chromosome, complete genome
+2,149,912 bp circular DNA 
+NZ_AP024712.1 GI:2155730062
+
+148. Bifidobacterium pseudocatenulatum strain JCLA3 chromosome, complete genome
+2,369,863 bp circular DNA 
+NZ_CP090598.1 GI:2179214227
+
+149. Bacteroides thetaiotaomicron strain VPI 5482 chromosome, complete genome
+6,280,921 bp circular DNA 
+NZ_CP092641.1 GI:2203296717
+
+150. Escherichia coli strain A25 chromosome, complete genome
+4,602,860 bp circular DNA 
+NZ_CP028750.1 GI:2205636491
+
+151. Escherichia coli strain A13 chromosome, complete genome
+4,630,346 bp circular DNA 
+NZ_CP028761.1 GI:2205649894
+
+152. Enterococcus durans strain S8-3 chromosome, complete genome
+3,015,822 bp circular DNA 
+NZ_CP088203.1 GI:2240350881
+
+153. Escherichia coli isolate 362 chromosome main, complete sequence
+4,863,036 bp circular DNA 
+NZ_OW967178.1 GI:2247357929
+
+154. Bacteroides ovatus strain VPIC145 chromosome BOVAC1_1_1, complete sequence
+7,082,243 bp circular DNA 
+NZ_OU901070.1 GI:2269235417
+
+155. Bifidobacterium longum subsp. infantis strain BB-02 chromosome, complete genome
+2,757,833 bp circular DNA 
+NZ_CP102541.1 GI:2287263001
+
+156. Escherichia coli strain DLI.5a chromosome, complete genome
+4,938,303 bp circular DNA 
+CP103972.1 GI:2295163020
+
+157. Bacteroides caccae strain ATCC 43185 chromosome, complete genome
+4,570,799 bp circular DNA 
+NZ_CP102256.1 GI:2302710050
+
+158. Enterococcus raffinosus strain HG-5 chromosome, complete genome
+3,258,457 bp circular DNA 
+NZ_CP104392.1 GI:2306314307
+
+159. Enterococcus raffinosus strain Er676 chromosome, complete genome
+3,200,986 bp circular DNA 
+NZ_CP104764.1 GI:2310679158
+
+160. Klebsiella pneumoniae strain VA684 chromosome, complete genome
+5,176,823 bp circular DNA 
+NZ_CP093458.1 GI:2509315035
+
+161. Enterococcus hirae strain L6E chromosome
+2,900,900 bp linear DNA 
+NZ_AP027299.1 GI:2523863445
+
+162. Klebsiella pneumoniae strain 505107 chromosome, complete genome
+5,045,819 bp circular DNA 
+NZ_CP132603.1 GI:2568483746
+
+163. Campylobacter jejuni strain BCH-11447 chromosome, complete genome
+1,837,018 bp circular DNA 
+Record removed. This record was removed by RefSeq staff. Please contact info@ncbi.nlm.nih.gov for further details.
+NZ_AP028392.1 GI:2612303445
+
+164. Enterobacter asburiae strain TA61661 chromosome, complete genome
+4,771,096 bp circular DNA 
+NZ_AP028420.1 GI:2612632015

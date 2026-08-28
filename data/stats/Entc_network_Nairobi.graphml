@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="name" for="node" attr.name="name" attr.type="string"/>
+  <key id="hhid" for="node" attr.name="hhid" attr.type="string"/>
+  <key id="study" for="node" attr.name="study" attr.type="string"/>
+  <key id="area" for="node" attr.name="area" attr.type="string"/>
+  <key id="tr" for="node" attr.name="tr" attr.type="string"/>
+  <key id="location" for="node" attr.name="location" attr.type="string"/>
+  <key id="Age_group" for="node" attr.name="Age_group" attr.type="string"/>
+  <key id="scaffold" for="edge" attr.name="scaffold" attr.type="string"/>
+  <key id="species" for="edge" attr.name="species" attr.type="string"/>
+  <key id="HH_type" for="edge" attr.name="HH_type" attr.type="string"/>
+  <key id="genus" for="edge" attr.name="genus" attr.type="string"/>
+  <key id="distance" for="edge" attr.name="distance" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="stools_11008101">
+      <data key="name">stools_11008101</data>
+      <data key="hhid">11008</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Gatwekera</data>
+      <data key="Age_group">0 - 19 months</data>
+    </node>
+    <node id="stools_11009101">
+      <data key="name">stools_11009101</data>
+      <data key="hhid">11009</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Gatwekera</data>
+      <data key="Age_group">0 - 19 months</data>
+    </node>
+    <node id="stools_11009150">
+      <data key="name">stools_11009150</data>
+      <data key="hhid">11009</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Gatwekera</data>
+      <data key="Age_group">Adults &gt; 15 years</data>
+    </node>
+    <node id="stools_11013101">
+      <data key="name">stools_11013101</data>
+      <data key="hhid">11013</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Gatwekera</data>
+      <data key="Age_group">0 - 19 months</data>
+    </node>
+    <node id="stools_11015101">
+      <data key="name">stools_11015101</data>
+      <data key="hhid">11015</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Gatwekera</data>
+      <data key="Age_group">&gt; 30 months</data>
+    </node>
+    <node id="stools_11015501">
+      <data key="name">stools_11015501</data>
+      <data key="hhid">11015</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Gatwekera</data>
+      <data key="Age_group">&gt; 30 months</data>
+    </node>
+    <node id="stools_11016150">
+      <data key="name">stools_11016150</data>
+      <data key="hhid">11016</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Gatwekera</data>
+      <data key="Age_group">Adults &gt; 15 years</data>
+    </node>
+    <node id="stools_11018101">
+      <data key="name">stools_11018101</data>
+      <data key="hhid">11018</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Gatwekera</data>
+      <data key="Age_group">0 - 19 months</data>
+    </node>
+    <node id="stools_11019101">
+      <data key="name">stools_11019101</data>
+      <data key="hhid">11019</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Gatwekera</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="stools_11019501">
+      <data key="name">stools_11019501</data>
+      <data key="hhid">11019</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Gatwekera</data>
+      <data key="Age_group">&gt; 30 months</data>
+    </node>
+    <node id="stools_11021150">
+      <data key="name">stools_11021150</data>
+      <data key="hhid">11021</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Gatwekera</data>
+      <data key="Age_group">Adults &gt; 15 years</data>
+    </node>
+    <node id="stools_11024150">
+      <data key="name">stools_11024150</data>
+      <data key="hhid">11024</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Gatwekera</data>
+      <data key="Age_group">Adults &gt; 15 years</data>
+    </node>
+    <node id="stools_11029101">
+      <data key="name">stools_11029101</data>
+      <data key="hhid">11029</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Gatwekera</data>
+      <data key="Age_group">0 - 19 months</data>
+    </node>
+    <node id="stools_11029150">
+      <data key="name">stools_11029150</data>
+      <data key="hhid">11029</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Gatwekera</data>
+      <data key="Age_group">Adults &gt; 15 years</data>
+    </node>
+    <node id="stools_11029501">
+      <data key="name">stools_11029501</data>
+      <data key="hhid">11029</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Gatwekera</data>
+      <data key="Age_group">&gt; 30 months</data>
+    </node>
+    <node id="stools_11039101">
+      <data key="name">stools_11039101</data>
+      <data key="hhid">11039</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Gatwekera</data>
+      <data key="Age_group">0 - 19 months</data>
+    </node>
+    <node id="stools_11041101">
+      <data key="name">stools_11041101</data>
+      <data key="hhid">11041</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Gatwekera</data>
+      <data key="Age_group">0 - 19 months</data>
+    </node>
+    <node id="stools_11044101">
+      <data key="name">stools_11044101</data>
+      <data key="hhid">11044</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Gatwekera</data>
+      <data key="Age_group">0 - 19 months</data>
+    </node>
+    <node id="stools_11045101">
+      <data key="name">stools_11045101</data>
+      <data key="hhid">11045</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Gatwekera</data>
+      <data key="Age_group">0 - 19 months</data>
+    </node>
+    <node id="stools_11047101">
+      <data key="name">stools_11047101</data>
+      <data key="hhid">11047</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Gatwekera</data>
+      <data key="Age_group">0 - 19 months</data>
+    </node>
+    <node id="stools_11051150">
+      <data key="name">stools_11051150</data>
+      <data key="hhid">11051</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Kibera</data>
+      <data key="Age_group">Adults &gt; 15 years</data>
+    </node>
+    <node id="stools_11051501">
+      <data key="name">stools_11051501</data>
+      <data key="hhid">11051</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Kibera</data>
+      <data key="Age_group">&gt; 30 months</data>
+    </node>
+    <node id="stools_11052101">
+      <data key="name">stools_11052101</data>
+      <data key="hhid">11052</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Kibera</data>
+      <data key="Age_group">0 - 19 months</data>
+    </node>
+    <node id="stools_11055101">
+      <data key="name">stools_11055101</data>
+      <data key="hhid">11055</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Water</data>
+      <data key="location">Kibera</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="stools_12062101">
+      <data key="name">stools_12062101</data>
+      <data key="hhid">12062</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Control</data>
+      <data key="location">Ngandu</data>
+      <data key="Age_group">0 - 19 months</data>
+    </node>
+    <node id="stools_12065101">
+      <data key="name">stools_12065101</data>
+      <data key="hhid">12065</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Control</data>
+      <data key="location">Ngandu</data>
+      <data key="Age_group">0 - 19 months</data>
+    </node>
+    <node id="stools_12066101">
+      <data key="name">stools_12066101</data>
+      <data key="hhid">12066</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Control</data>
+      <data key="location">Ngandu</data>
+      <data key="Age_group">0 - 19 months</data>
+    </node>
+    <node id="stools_12069101">
+      <data key="name">stools_12069101</data>
+      <data key="hhid">12069</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Control</data>
+      <data key="location">Ngandu</data>
+      <data key="Age_group">0 - 19 months</data>
+    </node>
+    <node id="stools_12069150">
+      <data key="name">stools_12069150</data>
+      <data key="hhid">12069</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Control</data>
+      <data key="location">Ngandu</data>
+      <data key="Age_group">Adults &gt; 15 years</data>
+    </node>
+    <node id="stools_12070101">
+      <data key="name">stools_12070101</data>
+      <data key="hhid">12070</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Control</data>
+      <data key="location">Ngandu</data>
+      <data key="Age_group">0 - 19 months</data>
+    </node>
+    <node id="stools_12073101">
+      <data key="name">stools_12073101</data>
+      <data key="hhid">12073</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Control</data>
+      <data key="location">Ngandu</data>
+      <data key="Age_group">0 - 19 months</data>
+    </node>
+    <node id="stools_12084101">
+      <data key="name">stools_12084101</data>
+      <data key="hhid">12084</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Control</data>
+      <data key="location">Ngandu</data>
+      <data key="Age_group">0 - 19 months</data>
+    </node>
+    <node id="stools_12098150">
+      <data key="name">stools_12098150</data>
+      <data key="hhid">12098</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Control</data>
+      <data key="location">Ngandu</data>
+      <data key="Age_group">Adults &gt; 15 years</data>
+    </node>
+    <node id="stools_12100101">
+      <data key="name">stools_12100101</data>
+      <data key="hhid">12100</data>
+      <data key="study">Nairobi</data>
+      <data key="area">urban</data>
+      <data key="tr">Control</data>
+      <data key="location">Ngandu</data>
+      <data key="Age_group">0 - 19 months</data>
+    </node>
+    <edge source="stools_11008101" target="stools_11013101">
+      <data key="scaffold">NZ_CP034169.1</data>
+      <data key="species">Entc_avium</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">199.176069253001</data>
+    </edge>
+    <edge source="stools_11008101" target="stools_12084101">
+      <data key="scaffold">NZ_CP088203.1</data>
+      <data key="species">Entc_durans</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">4884.49086918318</data>
+    </edge>
+    <edge source="stools_11009101" target="stools_11009150">
+      <data key="scaffold">NZ_AP027299.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Within</data>
+      <data key="genus">Entc</data>
+      <data key="distance">0</data>
+    </edge>
+    <edge source="stools_11009101" target="stools_11015101">
+      <data key="scaffold">NZ_AP027299.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">19.1649247828134</data>
+    </edge>
+    <edge source="stools_11009101" target="stools_11015501">
+      <data key="scaffold">NZ_AP027299.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">19.1649247828134</data>
+    </edge>
+    <edge source="stools_11009101" target="stools_11016150">
+      <data key="scaffold">NZ_AP027299.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">98.8961269631885</data>
+    </edge>
+    <edge source="stools_11009150" target="stools_11015101">
+      <data key="scaffold">NZ_AP027299.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">19.1649247828134</data>
+    </edge>
+    <edge source="stools_11009150" target="stools_11015501">
+      <data key="scaffold">NZ_AP027299.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">19.1649247828134</data>
+    </edge>
+    <edge source="stools_11009150" target="stools_11016150">
+      <data key="scaffold">NZ_AP027299.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">98.8961269631885</data>
+    </edge>
+    <edge source="stools_11013101" target="stools_11018101">
+      <data key="scaffold">NZ_LR135475.1</data>
+      <data key="species">Entc_faecium</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">90.8307160707097</data>
+    </edge>
+    <edge source="stools_11015101" target="stools_11015501">
+      <data key="scaffold">NZ_AP027299.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Within</data>
+      <data key="genus">Entc</data>
+      <data key="distance">0</data>
+    </edge>
+    <edge source="stools_11015101" target="stools_11016150">
+      <data key="scaffold">NZ_AP027299.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">84.978629275583</data>
+    </edge>
+    <edge source="stools_11015501" target="stools_11016150">
+      <data key="scaffold">NZ_AP027299.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">84.978629275583</data>
+    </edge>
+    <edge source="stools_11018101" target="stools_11044101">
+      <data key="scaffold">NZ_CP034169.1</data>
+      <data key="species">Entc_avium</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">255.753218505535</data>
+    </edge>
+    <edge source="stools_11018101" target="stools_12073101">
+      <data key="scaffold">NZ_CP033206.1</data>
+      <data key="species">Entc_faecium</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">5122.73231941076</data>
+    </edge>
+    <edge source="stools_11018101" target="stools_12073101">
+      <data key="scaffold">NZ_LR135475.1</data>
+      <data key="species">Entc_faecium</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">5122.73231941076</data>
+    </edge>
+    <edge source="stools_11019101" target="stools_11019501">
+      <data key="scaffold">NZ_AP027299.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Within</data>
+      <data key="genus">Entc</data>
+      <data key="distance">0</data>
+    </edge>
+    <edge source="stools_11021150" target="stools_11024150">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">27.6003583021039</data>
+    </edge>
+    <edge source="stools_11029101" target="stools_11029150">
+      <data key="scaffold">NZ_CP068122.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Within</data>
+      <data key="genus">Entc</data>
+      <data key="distance">0</data>
+    </edge>
+    <edge source="stools_11029101" target="stools_11029501">
+      <data key="scaffold">NZ_CP068122.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Within</data>
+      <data key="genus">Entc</data>
+      <data key="distance">0</data>
+    </edge>
+    <edge source="stools_11029150" target="stools_11029501">
+      <data key="scaffold">NZ_CP068122.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Within</data>
+      <data key="genus">Entc</data>
+      <data key="distance">0</data>
+    </edge>
+    <edge source="stools_11039101" target="stools_11047101">
+      <data key="scaffold">NZ_CP034169.1</data>
+      <data key="species">Entc_avium</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">91.2614778658265</data>
+    </edge>
+    <edge source="stools_11039101" target="stools_12065101">
+      <data key="scaffold">NZ_CP034169.1</data>
+      <data key="species">Entc_avium</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">4885.28058527676</data>
+    </edge>
+    <edge source="stools_11041101" target="stools_11044101">
+      <data key="scaffold">NZ_CP104392.1</data>
+      <data key="species">Entc_raffinosus</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">20.757127889175</data>
+    </edge>
+    <edge source="stools_11041101" target="stools_12066101">
+      <data key="scaffold">NZ_CP046307.1</data>
+      <data key="species">Entc_gallinarum</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">4857.74414268229</data>
+    </edge>
+    <edge source="stools_11044101" target="stools_12066101">
+      <data key="scaffold">NZ_CP104392.1</data>
+      <data key="species">Entc_raffinosus</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">4873.44469727864</data>
+    </edge>
+    <edge source="stools_11044101" target="stools_12070101">
+      <data key="scaffold">NZ_CP034169.1</data>
+      <data key="species">Entc_avium</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">4769.94952341178</data>
+    </edge>
+    <edge source="stools_11045101" target="stools_12066101">
+      <data key="scaffold">NZ_CP034169.1</data>
+      <data key="species">Entc_avium</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">4802.57991070063</data>
+    </edge>
+    <edge source="stools_11045101" target="stools_12070101">
+      <data key="scaffold">NZ_CP104764.1</data>
+      <data key="species">Entc_raffinosus</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">4699.11632036646</data>
+    </edge>
+    <edge source="stools_11051150" target="stools_11051501">
+      <data key="scaffold">NZ_CP040878.1</data>
+      <data key="species">Entc_faecium</data>
+      <data key="HH_type">Within</data>
+      <data key="genus">Entc</data>
+      <data key="distance">0</data>
+    </edge>
+    <edge source="stools_11052101" target="stools_12070101">
+      <data key="scaffold">NZ_CP046307.1</data>
+      <data key="species">Entc_gallinarum</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">5311.09911030502</data>
+    </edge>
+    <edge source="stools_11055101" target="stools_12098150">
+      <data key="scaffold">NZ_CP055230.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">5554.15197579428</data>
+    </edge>
+    <edge source="stools_12062101" target="stools_12066101">
+      <data key="scaffold">NZ_LR135203.1</data>
+      <data key="species">Entc_faecium</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">91.5668528128302</data>
+    </edge>
+    <edge source="stools_12065101" target="stools_12069150">
+      <data key="scaffold">NZ_CP034169.1</data>
+      <data key="species">Entc_avium</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">202.392479456671</data>
+    </edge>
+    <edge source="stools_12066101" target="stools_12073101">
+      <data key="scaffold">NZ_CP034169.1</data>
+      <data key="species">Entc_avium</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">63.4406047898701</data>
+    </edge>
+    <edge source="stools_12066101" target="stools_12073101">
+      <data key="scaffold">NZ_CP024590.1</data>
+      <data key="species">Entc_avium</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">63.4406047898701</data>
+    </edge>
+    <edge source="stools_12066101" target="stools_12100101">
+      <data key="scaffold">NZ_CP024590.1</data>
+      <data key="species">Entc_avium</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">674.676403696801</data>
+    </edge>
+    <edge source="stools_12066101" target="stools_12100101">
+      <data key="scaffold">NZ_CP104764.1</data>
+      <data key="species">Entc_raffinosus</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">674.676403696801</data>
+    </edge>
+    <edge source="stools_12069101" target="stools_12069150">
+      <data key="scaffold">NZ_CP034169.1</data>
+      <data key="species">Entc_avium</data>
+      <data key="HH_type">Within</data>
+      <data key="genus">Entc</data>
+      <data key="distance">0</data>
+    </edge>
+    <edge source="stools_12069101" target="stools_12070101">
+      <data key="scaffold">NZ_CP034169.1</data>
+      <data key="species">Entc_avium</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">223.494670839309</data>
+    </edge>
+    <edge source="stools_12070101" target="stools_12100101">
+      <data key="scaffold">NZ_CP104764.1</data>
+      <data key="species">Entc_raffinosus</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">576.777706554912</data>
+    </edge>
+    <edge source="stools_12073101" target="stools_12100101">
+      <data key="scaffold">NZ_CP034169.1</data>
+      <data key="species">Entc_avium</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">689.065015384825</data>
+    </edge>
+    <edge source="stools_12073101" target="stools_12100101">
+      <data key="scaffold">NZ_CP024590.1</data>
+      <data key="species">Entc_avium</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">689.065015384825</data>
+    </edge>
+    <edge source="stools_12073101" target="stools_12100101">
+      <data key="scaffold">NZ_CP033206.1</data>
+      <data key="species">Entc_faecium</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">689.065015384825</data>
+    </edge>
+  </graph>
+</graphml>

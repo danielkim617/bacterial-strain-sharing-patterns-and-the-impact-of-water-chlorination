@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="name" for="node" attr.name="name" attr.type="string"/>
+  <key id="hhid" for="node" attr.name="hhid" attr.type="string"/>
+  <key id="study" for="node" attr.name="study" attr.type="string"/>
+  <key id="area" for="node" attr.name="area" attr.type="string"/>
+  <key id="tr" for="node" attr.name="tr" attr.type="string"/>
+  <key id="location" for="node" attr.name="location" attr.type="string"/>
+  <key id="Age_group" for="node" attr.name="Age_group" attr.type="string"/>
+  <key id="scaffold" for="edge" attr.name="scaffold" attr.type="string"/>
+  <key id="species" for="edge" attr.name="species" attr.type="string"/>
+  <key id="HH_type" for="edge" attr.name="HH_type" attr.type="string"/>
+  <key id="genus" for="edge" attr.name="genus" attr.type="string"/>
+  <key id="distance" for="edge" attr.name="distance" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="ESO1212204120S1K">
+      <data key="name">ESO1212204120S1K</data>
+      <data key="hhid">2122041</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">26</data>
+      <data key="Age_group">&gt; 30 months</data>
+    </node>
+    <node id="ESO1212705120S1K">
+      <data key="name">ESO1212705120S1K</data>
+      <data key="hhid">2127051</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">26</data>
+      <data key="Age_group">&gt; 30 months</data>
+    </node>
+    <node id="ESO1213405120S1K">
+      <data key="name">ESO1213405120S1K</data>
+      <data key="hhid">2134051</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Water</data>
+      <data key="location">26</data>
+      <data key="Age_group">&gt; 30 months</data>
+    </node>
+    <node id="ESO1233809120S1K">
+      <data key="name">ESO1233809120S1K</data>
+      <data key="hhid">2338091</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Water</data>
+      <data key="location">25</data>
+      <data key="Age_group">&gt; 30 months</data>
+    </node>
+    <node id="ESO1238105120S1K">
+      <data key="name">ESO1238105120S1K</data>
+      <data key="hhid">2381051</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Water</data>
+      <data key="location">27</data>
+      <data key="Age_group">&gt; 30 months</data>
+    </node>
+    <node id="ESO1241104120S1K">
+      <data key="name">ESO1241104120S1K</data>
+      <data key="hhid">2411041</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Water</data>
+      <data key="location">31</data>
+      <data key="Age_group">&gt; 30 months</data>
+    </node>
+    <node id="ESO1242101120S1K">
+      <data key="name">ESO1242101120S1K</data>
+      <data key="hhid">2421011</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Water</data>
+      <data key="location">32</data>
+      <data key="Age_group">&gt; 30 months</data>
+    </node>
+    <node id="ESO1247101120S1K">
+      <data key="name">ESO1247101120S1K</data>
+      <data key="hhid">2471011</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">27</data>
+      <data key="Age_group">&gt; 30 months</data>
+    </node>
+    <node id="ESO1247109120S1K">
+      <data key="name">ESO1247109120S1K</data>
+      <data key="hhid">2471091</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">27</data>
+      <data key="Age_group">&gt; 30 months</data>
+    </node>
+    <node id="ESO1247210120S1K">
+      <data key="name">ESO1247210120S1K</data>
+      <data key="hhid">2472101</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">31</data>
+      <data key="Age_group">&gt; 30 months</data>
+    </node>
+    <node id="ESO1350507120S1K">
+      <data key="name">ESO1350507120S1K</data>
+      <data key="hhid">3505071</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Water</data>
+      <data key="location">78</data>
+      <data key="Age_group">&gt; 30 months</data>
+    </node>
+    <node id="ESO1350511120S1K">
+      <data key="name">ESO1350511120S1K</data>
+      <data key="hhid">3505111</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Water</data>
+      <data key="location">78</data>
+      <data key="Age_group">&gt; 30 months</data>
+    </node>
+    <node id="EST1212204101S1K">
+      <data key="name">EST1212204101S1K</data>
+      <data key="hhid">2122041</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">26</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1212206101S1K">
+      <data key="name">EST1212206101S1K</data>
+      <data key="hhid">2122061</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">26</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1212206201S1K">
+      <data key="name">EST1212206201S1K</data>
+      <data key="hhid">2122062</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">26</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1212705101S1K">
+      <data key="name">EST1212705101S1K</data>
+      <data key="hhid">2127051</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">26</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1213404101S1K">
+      <data key="name">EST1213404101S1K</data>
+      <data key="hhid">2134041</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Water</data>
+      <data key="location">26</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1232702101S1K">
+      <data key="name">EST1232702101S1K</data>
+      <data key="hhid">2327021</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Water</data>
+      <data key="location">22</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1234709101S1K">
+      <data key="name">EST1234709101S1K</data>
+      <data key="hhid">2347091</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">22</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1237103201S1K">
+      <data key="name">EST1237103201S1K</data>
+      <data key="hhid">2371032</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">25</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1238004201S1K">
+      <data key="name">EST1238004201S1K</data>
+      <data key="hhid">2380042</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Water</data>
+      <data key="location">27</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1238105101S1K">
+      <data key="name">EST1238105101S1K</data>
+      <data key="hhid">2381051</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Water</data>
+      <data key="location">27</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1241104101S1K">
+      <data key="name">EST1241104101S1K</data>
+      <data key="hhid">2411041</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Water</data>
+      <data key="location">31</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1241108101S1K">
+      <data key="name">EST1241108101S1K</data>
+      <data key="hhid">2411081</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Water</data>
+      <data key="location">31</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1242101101S1K">
+      <data key="name">EST1242101101S1K</data>
+      <data key="hhid">2421011</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Water</data>
+      <data key="location">32</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1242209101S1K">
+      <data key="name">EST1242209101S1K</data>
+      <data key="hhid">2422091</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Water</data>
+      <data key="location">32</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1242805101S1K">
+      <data key="name">EST1242805101S1K</data>
+      <data key="hhid">2428051</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">32</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1247106101S1K">
+      <data key="name">EST1247106101S1K</data>
+      <data key="hhid">2471061</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">27</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1247109101S1K">
+      <data key="name">EST1247109101S1K</data>
+      <data key="hhid">2471091</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">27</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1247211101S1K">
+      <data key="name">EST1247211101S1K</data>
+      <data key="hhid">2472111</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">31</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1254203101S1K">
+      <data key="name">EST1254203101S1K</data>
+      <data key="hhid">2542031</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Water</data>
+      <data key="location">44</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1256808101S1K">
+      <data key="name">EST1256808101S1K</data>
+      <data key="hhid">2568081</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">44</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1350511101S1K">
+      <data key="name">EST1350511101S1K</data>
+      <data key="hhid">3505111</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Water</data>
+      <data key="location">78</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1356601101S1K">
+      <data key="name">EST1356601101S1K</data>
+      <data key="hhid">3566011</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">78</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1356602101S1K">
+      <data key="name">EST1356602101S1K</data>
+      <data key="hhid">3566021</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">78</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1356604101S1K">
+      <data key="name">EST1356604101S1K</data>
+      <data key="hhid">3566041</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">78</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1356611101S1K">
+      <data key="name">EST1356611101S1K</data>
+      <data key="hhid">3566111</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">78</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1356618101S1K">
+      <data key="name">EST1356618101S1K</data>
+      <data key="hhid">3566181</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">78</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1358301101S1K">
+      <data key="name">EST1358301101S1K</data>
+      <data key="hhid">3583011</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">79</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1358301201S1K">
+      <data key="name">EST1358301201S1K</data>
+      <data key="hhid">3583012</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">79</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1358302101S1K">
+      <data key="name">EST1358302101S1K</data>
+      <data key="hhid">3583021</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">79</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1358304101S1K">
+      <data key="name">EST1358304101S1K</data>
+      <data key="hhid">3583041</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Control</data>
+      <data key="location">79</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST1359005101S1K">
+      <data key="name">EST1359005101S1K</data>
+      <data key="hhid">3590051</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Water</data>
+      <data key="location">82</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <node id="EST2359005102S1K">
+      <data key="name">EST2359005102S1K</data>
+      <data key="hhid">3590051</data>
+      <data key="study">WASHB</data>
+      <data key="area">rural</data>
+      <data key="tr">Water</data>
+      <data key="location">82</data>
+      <data key="Age_group">19 - 30 months</data>
+    </node>
+    <edge source="ESO1212204120S1K" target="EST1212204101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Within</data>
+      <data key="genus">Entc</data>
+      <data key="distance">0</data>
+    </edge>
+    <edge source="ESO1212204120S1K" target="EST1356604101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">27711.4458966681</data>
+    </edge>
+    <edge source="ESO1212705120S1K" target="ESO1213405120S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">1539.99861803609</data>
+    </edge>
+    <edge source="ESO1212705120S1K" target="ESO1247101120S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">24345.3974243984</data>
+    </edge>
+    <edge source="ESO1212705120S1K" target="EST1212705101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Within</data>
+      <data key="genus">Entc</data>
+      <data key="distance">0</data>
+    </edge>
+    <edge source="ESO1212705120S1K" target="EST1234709101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">14795.7997699291</data>
+    </edge>
+    <edge source="ESO1212705120S1K" target="EST1241108101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">10052.7102193973</data>
+    </edge>
+    <edge source="ESO1212705120S1K" target="EST1242209101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">9184.98096040347</data>
+    </edge>
+    <edge source="ESO1212705120S1K" target="EST1350511101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">25159.8306466391</data>
+    </edge>
+    <edge source="ESO1212705120S1K" target="EST1356601101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">28505.6321727892</data>
+    </edge>
+    <edge source="ESO1212705120S1K" target="EST1358301101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">26121.9967612796</data>
+    </edge>
+    <edge source="ESO1212705120S1K" target="EST1358301201S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">26122.055375272</data>
+    </edge>
+    <edge source="ESO1213405120S1K" target="ESO1247101120S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">25227.6080786651</data>
+    </edge>
+    <edge source="ESO1213405120S1K" target="EST1212705101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">1539.99861803609</data>
+    </edge>
+    <edge source="ESO1213405120S1K" target="EST1234709101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">15403.1300718555</data>
+    </edge>
+    <edge source="ESO1213405120S1K" target="EST1241108101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">8973.65007494303</data>
+    </edge>
+    <edge source="ESO1213405120S1K" target="EST1242209101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">8758.88944725712</data>
+    </edge>
+    <edge source="ESO1213405120S1K" target="EST1350511101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">25806.6775187955</data>
+    </edge>
+    <edge source="ESO1213405120S1K" target="EST1356601101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">29277.0356079115</data>
+    </edge>
+    <edge source="ESO1213405120S1K" target="EST1358301101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">26931.7012641166</data>
+    </edge>
+    <edge source="ESO1213405120S1K" target="EST1358301201S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">26931.6950474308</data>
+    </edge>
+    <edge source="ESO1233809120S1K" target="ESO1241104120S1K">
+      <data key="scaffold">NZ_CP055230.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">24882.3138891305</data>
+    </edge>
+    <edge source="ESO1233809120S1K" target="EST1241104101S1K">
+      <data key="scaffold">NZ_CP055230.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">24882.3138891305</data>
+    </edge>
+    <edge source="ESO1233809120S1K" target="EST1356602101S1K">
+      <data key="scaffold">NZ_CP055230.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">14873.1309711219</data>
+    </edge>
+    <edge source="ESO1238105120S1K" target="EST1238105101S1K">
+      <data key="scaffold">NZ_CP040878.1</data>
+      <data key="species">Entc_faecium</data>
+      <data key="HH_type">Within</data>
+      <data key="genus">Entc</data>
+      <data key="distance">0</data>
+    </edge>
+    <edge source="ESO1238105120S1K" target="EST2359005102S1K">
+      <data key="scaffold">NZ_CP040878.1</data>
+      <data key="species">Entc_faecium</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">23510.4639204276</data>
+    </edge>
+    <edge source="ESO1241104120S1K" target="EST1241104101S1K">
+      <data key="scaffold">NZ_CP055230.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Within</data>
+      <data key="genus">Entc</data>
+      <data key="distance">0</data>
+    </edge>
+    <edge source="ESO1241104120S1K" target="EST1356602101S1K">
+      <data key="scaffold">NZ_CP055230.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">37794.206956173</data>
+    </edge>
+    <edge source="ESO1242101120S1K" target="EST2359005102S1K">
+      <data key="scaffold">NZ_AP027299.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">54187.7812874005</data>
+    </edge>
+    <edge source="ESO1247101120S1K" target="EST1212206101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">23397.9037972856</data>
+    </edge>
+    <edge source="ESO1247101120S1K" target="EST1212705101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">24345.3974243984</data>
+    </edge>
+    <edge source="ESO1247101120S1K" target="EST1234709101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">10467.0689729067</data>
+    </edge>
+    <edge source="ESO1247101120S1K" target="EST1237103201S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">6338.90373842149</data>
+    </edge>
+    <edge source="ESO1247101120S1K" target="EST1241108101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">34179.2222924415</data>
+    </edge>
+    <edge source="ESO1247101120S1K" target="EST1242209101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">33365.7956721594</data>
+    </edge>
+    <edge source="ESO1247101120S1K" target="EST1350511101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">4484.52248697869</data>
+    </edge>
+    <edge source="ESO1247101120S1K" target="EST1356601101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">4697.98520138724</data>
+    </edge>
+    <edge source="ESO1247101120S1K" target="EST1356611101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">4092.00879312487</data>
+    </edge>
+    <edge source="ESO1247101120S1K" target="EST1358301101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">2262.35172111904</data>
+    </edge>
+    <edge source="ESO1247101120S1K" target="EST1358301201S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">2263.18258156095</data>
+    </edge>
+    <edge source="ESO1247109120S1K" target="EST1237103201S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">6333.06481265146</data>
+    </edge>
+    <edge source="ESO1247109120S1K" target="EST1241108101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">34251.8972420824</data>
+    </edge>
+    <edge source="ESO1247210120S1K" target="EST1213404101S1K">
+      <data key="scaffold">NZ_CP055230.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">29751.7229754687</data>
+    </edge>
+    <edge source="ESO1247210120S1K" target="EST1242805101S1K">
+      <data key="scaffold">NZ_CP055230.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">38665.925360544</data>
+    </edge>
+    <edge source="ESO1350507120S1K" target="ESO1350511120S1K">
+      <data key="scaffold">NZ_AP027299.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">754.232936713644</data>
+    </edge>
+    <edge source="ESO1350507120S1K" target="EST1247109101S1K">
+      <data key="scaffold">NZ_AP027299.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">4329.00146360509</data>
+    </edge>
+    <edge source="ESO1350511120S1K" target="EST1247109101S1K">
+      <data key="scaffold">NZ_AP027299.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">4085.02934606767</data>
+    </edge>
+    <edge source="EST1212204101S1K" target="EST1356604101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">27711.4458966681</data>
+    </edge>
+    <edge source="EST1212206101S1K" target="EST1212206201S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">67.5211133979719</data>
+    </edge>
+    <edge source="EST1212206101S1K" target="EST1232702101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">11404.5941667141</data>
+    </edge>
+    <edge source="EST1212206101S1K" target="EST1237103201S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">17348.1772004287</data>
+    </edge>
+    <edge source="EST1212206101S1K" target="EST1238004201S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">21318.3910265123</data>
+    </edge>
+    <edge source="EST1212206101S1K" target="EST1242101101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">9906.58029200929</data>
+    </edge>
+    <edge source="EST1212206101S1K" target="EST1350511101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">24082.1370727688</data>
+    </edge>
+    <edge source="EST1212206101S1K" target="EST1356611101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">26988.1035157076</data>
+    </edge>
+    <edge source="EST1212206101S1K" target="EST1356618101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">28142.9461078979</data>
+    </edge>
+    <edge source="EST1212206101S1K" target="EST1358302101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">24847.6886721979</data>
+    </edge>
+    <edge source="EST1212206101S1K" target="EST1358304101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">25333.0762282679</data>
+    </edge>
+    <edge source="EST1212206201S1K" target="EST1232702101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">11356.9331296236</data>
+    </edge>
+    <edge source="EST1212206201S1K" target="EST1237103201S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">17285.6901329728</data>
+    </edge>
+    <edge source="EST1212206201S1K" target="EST1238004201S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">21260.2012387835</data>
+    </edge>
+    <edge source="EST1212206201S1K" target="EST1242101101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">9961.14138062164</data>
+    </edge>
+    <edge source="EST1212206201S1K" target="EST1356611101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">26925.2124507843</data>
+    </edge>
+    <edge source="EST1212206201S1K" target="EST1356618101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">28080.4563015514</data>
+    </edge>
+    <edge source="EST1212206201S1K" target="EST1358302101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">24784.3194131333</data>
+    </edge>
+    <edge source="EST1212206201S1K" target="EST1358304101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">25270.0050541443</data>
+    </edge>
+    <edge source="EST1212705101S1K" target="EST1234709101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">14795.7997699291</data>
+    </edge>
+    <edge source="EST1212705101S1K" target="EST1241108101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">10052.7102193973</data>
+    </edge>
+    <edge source="EST1212705101S1K" target="EST1242209101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">9184.98096040347</data>
+    </edge>
+    <edge source="EST1212705101S1K" target="EST1350511101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">25159.8306466391</data>
+    </edge>
+    <edge source="EST1212705101S1K" target="EST1356601101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">28505.6321727892</data>
+    </edge>
+    <edge source="EST1212705101S1K" target="EST1358301101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">26121.9967612796</data>
+    </edge>
+    <edge source="EST1212705101S1K" target="EST1358301201S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">26122.055375272</data>
+    </edge>
+    <edge source="EST1213404101S1K" target="EST1242805101S1K">
+      <data key="scaffold">NZ_CP055230.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">8941.3565996275</data>
+    </edge>
+    <edge source="EST1232702101S1K" target="EST1237103201S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">8132.14801893293</data>
+    </edge>
+    <edge source="EST1232702101S1K" target="EST1238004201S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">10670.917588053</data>
+    </edge>
+    <edge source="EST1232702101S1K" target="EST1242101101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">21249.0743816088</data>
+    </edge>
+    <edge source="EST1232702101S1K" target="EST1356611101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">17164.1793784572</data>
+    </edge>
+    <edge source="EST1232702101S1K" target="EST1356618101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">18168.7326203926</data>
+    </edge>
+    <edge source="EST1232702101S1K" target="EST1358302101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">15265.1454969406</data>
+    </edge>
+    <edge source="EST1234709101S1K" target="EST1241108101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">24177.9661855242</data>
+    </edge>
+    <edge source="EST1234709101S1K" target="EST1242209101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">23980.7370456687</data>
+    </edge>
+    <edge source="EST1234709101S1K" target="EST1350511101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">10405.0714683755</data>
+    </edge>
+    <edge source="EST1234709101S1K" target="EST1356601101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">14022.0581374046</data>
+    </edge>
+    <edge source="EST1234709101S1K" target="EST1358301101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">11811.8962361567</data>
+    </edge>
+    <edge source="EST1234709101S1K" target="EST1358301201S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">11811.6744096618</data>
+    </edge>
+    <edge source="EST1234709101S1K" target="EST1358302101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">11543.6796465995</data>
+    </edge>
+    <edge source="EST1237103201S1K" target="EST1238004201S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">4831.92349139994</data>
+    </edge>
+    <edge source="EST1237103201S1K" target="EST1241108101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">28029.056525839</data>
+    </edge>
+    <edge source="EST1237103201S1K" target="EST1242101101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">27067.1799335711</data>
+    </edge>
+    <edge source="EST1237103201S1K" target="EST1356611101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">9646.00732572244</data>
+    </edge>
+    <edge source="EST1237103201S1K" target="EST1358301101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">7813.7056088086</data>
+    </edge>
+    <edge source="EST1237103201S1K" target="EST1358302101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">7536.27782064313</data>
+    </edge>
+    <edge source="EST1238004201S1K" target="EST1241108101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">31692.2440407202</data>
+    </edge>
+    <edge source="EST1238004201S1K" target="EST1242101101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">31190.642101849</data>
+    </edge>
+    <edge source="EST1238004201S1K" target="EST1356611101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">6832.94793869454</data>
+    </edge>
+    <edge source="EST1238004201S1K" target="EST1358302101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">5423.14453706104</data>
+    </edge>
+    <edge source="EST1238004201S1K" target="EST1358304101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">5573.95506563981</data>
+    </edge>
+    <edge source="EST1241104101S1K" target="EST1247211101S1K">
+      <data key="scaffold">NZ_CP055230.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">37951.6875449792</data>
+    </edge>
+    <edge source="EST1241104101S1K" target="EST1356602101S1K">
+      <data key="scaffold">NZ_CP055230.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">37794.206956173</data>
+    </edge>
+    <edge source="EST1241108101S1K" target="EST1242101101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">4818.23303947385</data>
+    </edge>
+    <edge source="EST1241108101S1K" target="EST1242209101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">4564.06783220039</data>
+    </edge>
+    <edge source="EST1241108101S1K" target="EST1350511101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">34562.4595419781</data>
+    </edge>
+    <edge source="EST1241108101S1K" target="EST1356601101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">38152.3869121527</data>
+    </edge>
+    <edge source="EST1241108101S1K" target="EST1356611101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">37669.6755167999</data>
+    </edge>
+    <edge source="EST1241108101S1K" target="EST1358301101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">35840.649702458</data>
+    </edge>
+    <edge source="EST1241108101S1K" target="EST1358301201S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">35840.5980325669</data>
+    </edge>
+    <edge source="EST1241108101S1K" target="EST1358302101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">35561.6378123524</data>
+    </edge>
+    <edge source="EST1241108101S1K" target="EST1358304101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">36028.5406766804</data>
+    </edge>
+    <edge source="EST1242101101S1K" target="EST1256808101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">19219.5832151254</data>
+    </edge>
+    <edge source="EST1242101101S1K" target="EST1350511101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">33908.6485906526</data>
+    </edge>
+    <edge source="EST1242101101S1K" target="EST1356601101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">37176.5752792663</data>
+    </edge>
+    <edge source="EST1242101101S1K" target="EST1356611101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">36650.4535475239</data>
+    </edge>
+    <edge source="EST1242101101S1K" target="EST1358301101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">34762.319922137</data>
+    </edge>
+    <edge source="EST1242101101S1K" target="EST1358302101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">34477.5020542843</data>
+    </edge>
+    <edge source="EST1242209101S1K" target="EST1350511101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">34338.3196411825</data>
+    </edge>
+    <edge source="EST1242209101S1K" target="EST1356601101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">37623.0915465507</data>
+    </edge>
+    <edge source="EST1242209101S1K" target="EST1358301101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">35212.535500977</data>
+    </edge>
+    <edge source="EST1242209101S1K" target="EST1358301201S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">35212.6508544936</data>
+    </edge>
+    <edge source="EST1247106101S1K" target="EST1254203101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">39988.0517351373</data>
+    </edge>
+    <edge source="EST1247211101S1K" target="EST1356602101S1K">
+      <data key="scaffold">NZ_CP055230.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">8333.88665169343</data>
+    </edge>
+    <edge source="EST1350511101S1K" target="EST1356601101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">4211.53669771744</data>
+    </edge>
+    <edge source="EST1350511101S1K" target="EST1358301101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">3291.75445632831</data>
+    </edge>
+    <edge source="EST1350511101S1K" target="EST1358301201S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">3290.54630084976</data>
+    </edge>
+    <edge source="EST1350511101S1K" target="EST1358304101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">3130.47839917377</data>
+    </edge>
+    <edge source="EST1356601101S1K" target="EST1358301101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">2497.51439892284</data>
+    </edge>
+    <edge source="EST1356601101S1K" target="EST1358301201S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">2497.0500598359</data>
+    </edge>
+    <edge source="EST1356601101S1K" target="EST1358302101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">2779.12148760528</data>
+    </edge>
+    <edge source="EST1356611101S1K" target="EST1358302101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">2202.09642926325</data>
+    </edge>
+    <edge source="EST1356618101S1K" target="EST1358304101S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">2878.63194425709</data>
+    </edge>
+    <edge source="EST1358301101S1K" target="EST1358301201S1K">
+      <data key="scaffold">NZ_CP055229.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Between</data>
+      <data key="genus">Entc</data>
+      <data key="distance">1.31292252156273</data>
+    </edge>
+    <edge source="EST1359005101S1K" target="EST2359005102S1K">
+      <data key="scaffold">NZ_AP027299.1</data>
+      <data key="species">Entc_hirae</data>
+      <data key="HH_type">Within</data>
+      <data key="genus">Entc</data>
+      <data key="distance">0</data>
+    </edge>
+    <edge source="EST1359005101S1K" target="EST2359005102S1K">
+      <data key="scaffold">NZ_CP040878.1</data>
+      <data key="species">Entc_faecium</data>
+      <data key="HH_type">Within</data>
+      <data key="genus">Entc</data>
+      <data key="distance">0</data>
+    </edge>
+  </graph>
+</graphml>

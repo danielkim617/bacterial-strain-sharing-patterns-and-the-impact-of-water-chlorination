@@ -1,0 +1,85 @@
+id,hhid,study,area,tr,location,Age_group
+ESO1212204120S1K,2122041,WASHB,rural,Control,26,> 30 months
+ESO1212705120S1K,2127051,WASHB,rural,Control,26,> 30 months
+ESO1213405120S1K,2134051,WASHB,rural,Water,26,> 30 months
+ESO1232702120S1K,2327021,WASHB,rural,Water,22,> 30 months
+ESO1233809120S1K,2338091,WASHB,rural,Water,25,> 30 months
+ESO1238105120S1K,2381051,WASHB,rural,Water,27,> 30 months
+ESO1241104120S1K,2411041,WASHB,rural,Water,31,> 30 months
+ESO1242101120S1K,2421011,WASHB,rural,Water,32,> 30 months
+ESO1247101120S1K,2471011,WASHB,rural,Control,27,> 30 months
+ESO1247109120S1K,2471091,WASHB,rural,Control,27,> 30 months
+ESO1247210120S1K,2472101,WASHB,rural,Control,31,> 30 months
+ESO1350507120S1K,3505071,WASHB,rural,Water,78,> 30 months
+ESO1350511120S1K,3505111,WASHB,rural,Water,78,> 30 months
+EST1212204101S1K,2122041,WASHB,rural,Control,26,19 - 30 months
+EST1212206101S1K,2122061,WASHB,rural,Control,26,19 - 30 months
+EST1212206201S1K,2122062,WASHB,rural,Control,26,19 - 30 months
+EST1212703101S1K,2127031,WASHB,rural,Control,26,19 - 30 months
+EST1212705101S1K,2127051,WASHB,rural,Control,26,19 - 30 months
+EST1213404101S1K,2134041,WASHB,rural,Water,26,19 - 30 months
+EST1232702101S1K,2327021,WASHB,rural,Water,22,19 - 30 months
+EST1234709101S1K,2347091,WASHB,rural,Control,22,19 - 30 months
+EST1237103201S1K,2371032,WASHB,rural,Control,25,19 - 30 months
+EST1238004201S1K,2380042,WASHB,rural,Water,27,19 - 30 months
+EST1238105101S1K,2381051,WASHB,rural,Water,27,19 - 30 months
+EST1241104101S1K,2411041,WASHB,rural,Water,31,19 - 30 months
+EST1241108101S1K,2411081,WASHB,rural,Water,31,19 - 30 months
+EST1242101101S1K,2421011,WASHB,rural,Water,32,19 - 30 months
+EST1242206101S1K,2422061,WASHB,rural,Water,32,19 - 30 months
+EST1242209101S1K,2422091,WASHB,rural,Water,32,19 - 30 months
+EST1242805101S1K,2428051,WASHB,rural,Control,32,19 - 30 months
+EST1247106101S1K,2471061,WASHB,rural,Control,27,19 - 30 months
+EST1247109101S1K,2471091,WASHB,rural,Control,27,19 - 30 months
+EST1247211101S1K,2472111,WASHB,rural,Control,31,19 - 30 months
+EST1254203101S1K,2542031,WASHB,rural,Water,44,19 - 30 months
+EST1256808101S1K,2568081,WASHB,rural,Control,44,19 - 30 months
+EST1350511101S1K,3505111,WASHB,rural,Water,78,19 - 30 months
+EST1356601101S1K,3566011,WASHB,rural,Control,78,19 - 30 months
+EST1356602101S1K,3566021,WASHB,rural,Control,78,19 - 30 months
+EST1356604101S1K,3566041,WASHB,rural,Control,78,19 - 30 months
+EST1356611101S1K,3566111,WASHB,rural,Control,78,19 - 30 months
+EST1356618101S1K,3566181,WASHB,rural,Control,78,19 - 30 months
+EST1358301101S1K,3583011,WASHB,rural,Control,79,19 - 30 months
+EST1358301201S1K,3583012,WASHB,rural,Control,79,19 - 30 months
+EST1358302101S1K,3583021,WASHB,rural,Control,79,19 - 30 months
+EST1358304101S1K,3583041,WASHB,rural,Control,79,19 - 30 months
+EST1359005101S1K,3590051,WASHB,rural,Water,82,19 - 30 months
+EST2359005102S1K,3590051,WASHB,rural,Water,82,19 - 30 months
+stools_11008101,11008,Nairobi,urban,Water,Gatwekera,0 - 19 months
+stools_11009101,11009,Nairobi,urban,Water,Gatwekera,0 - 19 months
+stools_11009150,11009,Nairobi,urban,Water,Gatwekera,Adults > 15 years
+stools_11013101,11013,Nairobi,urban,Water,Gatwekera,0 - 19 months
+stools_11015101,11015,Nairobi,urban,Water,Gatwekera,> 30 months
+stools_11015501,11015,Nairobi,urban,Water,Gatwekera,> 30 months
+stools_11016150,11016,Nairobi,urban,Water,Gatwekera,Adults > 15 years
+stools_11018101,11018,Nairobi,urban,Water,Gatwekera,0 - 19 months
+stools_11019101,11019,Nairobi,urban,Water,Gatwekera,19 - 30 months
+stools_11019501,11019,Nairobi,urban,Water,Gatwekera,> 30 months
+stools_11021150,11021,Nairobi,urban,Water,Gatwekera,Adults > 15 years
+stools_11024150,11024,Nairobi,urban,Water,Gatwekera,Adults > 15 years
+stools_11029101,11029,Nairobi,urban,Water,Gatwekera,0 - 19 months
+stools_11029150,11029,Nairobi,urban,Water,Gatwekera,Adults > 15 years
+stools_11029501,11029,Nairobi,urban,Water,Gatwekera,> 30 months
+stools_11039101,11039,Nairobi,urban,Water,Gatwekera,0 - 19 months
+stools_11041101,11041,Nairobi,urban,Water,Gatwekera,0 - 19 months
+stools_11044101,11044,Nairobi,urban,Water,Gatwekera,0 - 19 months
+stools_11045101,11045,Nairobi,urban,Water,Gatwekera,0 - 19 months
+stools_11047101,11047,Nairobi,urban,Water,Gatwekera,0 - 19 months
+stools_11051150,11051,Nairobi,urban,Water,Kibera,Adults > 15 years
+stools_11051501,11051,Nairobi,urban,Water,Kibera,> 30 months
+stools_11052101,11052,Nairobi,urban,Water,Kibera,0 - 19 months
+stools_11055101,11055,Nairobi,urban,Water,Kibera,19 - 30 months
+stools_11110101,11110,Nairobi,urban,Water,Kibera,> 30 months
+stools_12062101,12062,Nairobi,urban,Control,Ngandu,0 - 19 months
+stools_12065101,12065,Nairobi,urban,Control,Ngandu,0 - 19 months
+stools_12066101,12066,Nairobi,urban,Control,Ngandu,0 - 19 months
+stools_12069101,12069,Nairobi,urban,Control,Ngandu,0 - 19 months
+stools_12069150,12069,Nairobi,urban,Control,Ngandu,Adults > 15 years
+stools_12070101,12070,Nairobi,urban,Control,Ngandu,0 - 19 months
+stools_12073101,12073,Nairobi,urban,Control,Ngandu,0 - 19 months
+stools_12084101,12084,Nairobi,urban,Control,Ngandu,0 - 19 months
+stools_12086501,12086,Nairobi,urban,Control,Ngandu,> 30 months
+stools_12095102,12095,Nairobi,urban,Control,Ngandu,> 30 months
+stools_12098150,12098,Nairobi,urban,Control,Ngandu,Adults > 15 years
+stools_12100101,12100,Nairobi,urban,Control,Ngandu,0 - 19 months
