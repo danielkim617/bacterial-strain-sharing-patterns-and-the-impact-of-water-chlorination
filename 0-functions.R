@@ -526,6 +526,31 @@ calculate_percent_fisher = function(x){
   return(result)
 }
 
+# Pairwise Fisher's exact test on strain-sharing percentage across all categories in `cat_col`
+pairwise_fisher_test = function(x, cat_col = "cat", p.adjust.method = "BH"){
+  cats = unique(x[[cat_col]]) %>% as.character()
+  combos = combn(cats, 2)
+  result = data.frame(matrix(ncol=6, nrow=ncol(combos)))
+  colnames(result) = c("group1", "group2", "percent1", "percent2", "p_value", "p_adj")
+  for (i in 1:ncol(combos)) {
+    g1 = combos[1,i]
+    g2 = combos[2,i]
+    row1 = x[x[[cat_col]] == g1, c("Yes","No")]
+    row2 = x[x[[cat_col]] == g2, c("Yes","No")]
+    contingency_table = rbind(row1, row2) %>% as.matrix()
+    rownames(contingency_table) = c(g1, g2)
+    fisher_result = fisher.test(contingency_table)
+
+    result[i,"group1"] = g1
+    result[i,"group2"] = g2
+    result[i,"percent1"] = row1$Yes/(row1$Yes + row1$No)*100
+    result[i,"percent2"] = row2$Yes/(row2$Yes + row2$No)*100
+    result[i,"p_value"] = fisher_result$p.value
+  }
+  result$p_adj = p.adjust(result$p_value, method = p.adjust.method)
+  return(result)
+}
+
 
 
 process_nuccore_file <- function(file) {

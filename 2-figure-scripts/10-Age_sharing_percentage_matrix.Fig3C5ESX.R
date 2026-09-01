@@ -15,6 +15,35 @@ rural.pairs.bet.age.mat$genus = factor(rural.pairs.bet.age.mat$genus, levels = c
                                        labels = c("All genera", "Commensal", "Non-commensal","Bacteroides", "Bifidobacterium", "Escherichia", "Campylobacter", "Klebsiella", "Enterococcus", "Enterobacter"))
 rural.pairs.bet.age.mat$tr = factor(rural.pairs.bet.age.mat$tr, levels = c( "Overall", "Water", "Control"))
 
+urban.pairs.bet.age.mat %>% filter(genus == "Commensal", tr == "Overall")
+
+# Pairwise Fisher's exact test of strain-sharing percentage among age-group-pair categories
+urban.commensal.overall = urban.pairs.bet.age.mat %>% filter(genus == "Commensal", tr == "Overall")
+urban.commensal.overall.fisher = pairwise_fisher_test(urban.commensal.overall)
+urban.commensal.overall.fisher$genus = "Commensal"
+urban.commensal.overall.fisher$study = "Nairobi"
+urban.commensal.overall.fisher %>% filter(p_adj < 0.05)
+
+urban.noncommensal.overall = urban.pairs.bet.age.mat %>% filter(genus == "Non-commensal", tr == "Overall")
+urban.noncommensal.overall.fisher = pairwise_fisher_test(urban.noncommensal.overall)
+urban.noncommensal.overall.fisher$genus = "Target"
+urban.noncommensal.overall.fisher$study = "Nairobi"
+urban.noncommensal.overall.fisher %>% filter(p_adj < 0.05)
+
+rural.commensal.overall = rural.pairs.bet.age.mat %>% filter(genus == "Commensal", tr == "Overall")
+rural.commensal.overall.fisher = pairwise_fisher_test(rural.commensal.overall)
+rural.commensal.overall.fisher$genus = "Commensal"
+rural.commensal.overall.fisher$study = "Western Kenya"
+rural.commensal.overall.fisher %>% filter(p_adj < 0.05)
+
+rural.noncommensal.overall = rural.pairs.bet.age.mat %>% filter(genus == "Non-commensal", tr == "Overall")
+rural.noncommensal.overall.fisher = pairwise_fisher_test(rural.noncommensal.overall)
+rural.noncommensal.overall.fisher$genus = "Target"
+rural.noncommensal.overall.fisher$study = "Western Kenya"
+rural.noncommensal.overall.fisher %>% filter(p_adj < 0.05)
+
+write.table(rbind(urban.commensal.overall.fisher, urban.noncommensal.overall.fisher, rural.commensal.overall.fisher, rural.noncommensal.overall.fisher), file = file.path(here::here(), "data/stats/age_pairwise_fisher_test.tsv"), sep = "\t", row.names = F, quote = F)
+
 # For plotting a lower triangle figure of strain-sharing pair percentage
 age_sharing_fig = function(x){
   # Define the factor levels

@@ -14,7 +14,7 @@ R21_Bracken.count.sp = R21_Bracken.count %>% select(-c("domain", "phylum", "clas
 
 rownames(R21_Bracken.count.sp) = R21_Bracken.count$tax_id
 colnames(R21_Bracken.count.sp) = gsub("SM.", "SM-", colnames(R21_Bracken.count.sp)) #Correcting sample names
-R21_Bracken.count.sp = R21_Bracken.count.sp[,!colnames(R21_Bracken.count.sp) %in% "stools_12093101_SM"] # Added later
+R21_Bracken.count.sp = R21_Bracken.count.sp[,!colnames(R21_Bracken.count.sp) %in% "stools_12093101_SM-NA1P5"] # Added later
 
 #Taxa rank (Genus/Species)
 tax.info = R21_Bracken.count %>% select(c("domain", "phylum", "class","order","family","genus", "species"))
